@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FrontEnd`**
 
-Me chamo Davi Bessa, sou um jovem de 19 anos nascido em São Paulo. Atualmente curso Ciências da Computação na Faculdade Impacta e amo a tecnologia, principalmente o meio web e o desenvolvimento de softwares, busco me aprofundar na área e se tornar um desenvolvedor FullStack.
+Me chamo Davi Bessa, sou um jovem de 19 anos nascido em São Paulo. Atualmente curso Ciências da Computação na Faculdade Impacta e amo a tecnologia, principalmente o meio web, busco me aprofundar na área e se tornar um desenvolvedor FullStack.
 ---
 
 
