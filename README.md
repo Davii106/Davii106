@@ -1,6 +1,6 @@
 # ⚡ Davi Bessa
 
-**`Desenvolvedor FrontEnd`**
+**`Estudant de Ciências da Computação`**
 
 Meu nome é Davi Bessa; sou um jovem de 19 anos nascido em São Paulo. Atualmente curso Ciência da Computação na Faculdade Impacta e amo a tecnologia principalmente o meio web. Busco aprofundar-me na área e tornar um desenvolvedor FullStack.
 ---
