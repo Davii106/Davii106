@@ -35,6 +35,9 @@ Meu nome é Davi Bessa; sou um jovem de 19 anos nascido em São Paulo. Atualment
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
+<br/>
+<br/>
+
 ### 📊 Estatísticas
 
 <p>
